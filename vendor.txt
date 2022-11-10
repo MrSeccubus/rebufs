@@ -26,3 +26,5 @@ A: No. In fact, be aware that I never suggest a lead developer call/email back a
 
 Q: But I’m not a security company! Can’t you take time?
 A: Then even less so. I’m almost certainly not even an appropriate target, which means you’re sending cold intros to people who aren’t appropriate targets.
+
+P.S. If you are one of those sales that follows up an email with an "Have you seen my previous email", or "Just following up on my previous email". Please, stop do that. It makes you come across as needy and generally put me in a bad mood.
